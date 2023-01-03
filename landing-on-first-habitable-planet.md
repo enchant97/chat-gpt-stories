@@ -1,4 +1,11 @@
-## landing on the first found habitable planet
+# landing on the first found habitable planet
+## Abstract
+
+> (Q) create an abstract
+
+In the year 2550, a group of people land on a new planet after Earth becomes uninhabitable. They discover another form of intelligent life on the planet and communicate with them through a device that translates alien languages. The team helps the creatures extract a chemical that they need to survive and their relationship improves, leading to the creation of jobs and trade. The story ends with the settlers looking forward to a bright and exciting future.
+
+## Story
 
 > (Q) write a first person fictional story set in the year 2550 about someone landing on the first found habitable planet after the entire earth become uninhabitable due to toxic gas being released
 
